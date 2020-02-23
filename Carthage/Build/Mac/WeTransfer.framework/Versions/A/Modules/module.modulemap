@@ -1,0 +1,4 @@
+framework module WeTransfer {
+    header "WeTransfer-Swift.h"
+    requires objc
+}
